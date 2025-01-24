@@ -1,0 +1,7 @@
+# Ignore Visual Studio and build files
+.vs/
+bin/
+obj/
+*.suo
+*.user
+*.sqlite
