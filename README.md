@@ -1,15 +1,30 @@
-# Address Book in C#
-A simple address book management system built with Windows Forms and SQL Server.
+# Address Book - C# .NET MVC Application
+
+This is a simple **Address Book** application built using **C# .NET MVC** and **SQL Server** for managing contacts. Users can add, update, delete, and search contacts with personal details like name, contact number, email, and address.
 
 ## Features
-- Add, Edit, and Delete contacts
-- Store contacts securely
-- User-friendly interface
+- **Add** new contacts
+- **Edit** existing contacts
+- **Delete** contacts
+- **Search** contacts by name
+- **Calculate and display age** based on birthdate
+- Full **CRUD** (Create, Read, Update, Delete) functionality
 
-## Installation
-1. Clone the repo: `git clone https://github.com/zunairsohail/AdressBook-In-C-.git`
-2. Open the project in Visual Studio
-3. Run the application
+## Technologies Used
+- **C#** (ASP.NET MVC)
+- **SQL Server** (for storing contact data)
+- **Entity Framework** (for database access)
+- **HTML/CSS** for the front-end design
 
-## License
-This project is open-source under the MIT License.
+## Prerequisites
+To run this project, you'll need:
+- **Visual Studio**
+- **Microsoft SQL Server**
+- **.NET Framework** or **.NET Core** (depending on your project setup)
+
+## Setup Instructions
+
+### Clone the repository to your local machine:
+```bash
+git clone https://github.com/yourusername/Address-Book.git
+
